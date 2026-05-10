@@ -3,7 +3,7 @@
 Proiect TSS
 10 mai 2026
 
-Fisiere:
-cont.py - clasa testata
-test_f.py - teste functionale
-test_s.py - teste structurale
+Fisiere:<br>
+cont.py - clasa testata<br>
+test_f.py - teste functionale<br>
+test_s.py - teste structurale<br>
